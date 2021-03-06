@@ -1,0 +1,371 @@
+.conteiner3{
+	width: 89%;
+	height: 800px;
+	background-color: #8dc153;
+	position: relative;
+	text-align: center;
+	left: 5%;
+	right: 7%;
+	top: 270px;
+	border-top-right-radius: 30px;
+}
+.baslik2{
+	position: relative;
+	top: 65px;
+}
+.conteiner3 h2 {
+    font-family: 'Dosis';
+    font-size: 30px;
+    color: #fff;
+    margin: 10px 10px;
+
+ }
+ .conteiner3 span {
+    font-family: 'Dosis';
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+.foto{
+	width: 30.83%;
+	height: 37.5%;
+	position: relative;
+	left: -20px;
+	top: 100px;
+	display: inline-block;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+
+	
+}
+.foto2{
+	width: 30.83%;
+	height: 37.5%;
+	position: relative;
+	left: 0px;
+	top: 100px;
+	display: inline-block;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+
+	
+}
+.foto3{
+	width: 30.83%;
+	height: 37.5%;
+	position: relative;
+	left:20px;
+	top: 100px;
+	display: inline-block;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+
+	
+}
+.foto4{
+	width: 30.83%;
+	height: 37.5%;
+	position: relative;
+	left: -20px;
+	top: 120px;
+	display: inline-block;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+
+	
+}
+.foto5{
+	width: 30.83%;
+	height: 37.5%;
+	position: relative;
+	left: 0px;
+	top: 120px;
+	display: inline-block;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+
+	
+}
+.foto6{
+	width: 30.83%;
+	height: 37.5%;
+	position: relative;
+	left: 20px;
+	top: 120px;
+	display: inline-block;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+
+	
+}
+.item1{
+	width: 100%;
+	height: 100%;
+	background-image:url(img/item1.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+	position: absolute;
+}
+.item2{
+	width: 100%;
+	height: 100%;
+    background-size: 100% 100%;
+	background-position: center;
+	background-image:url(img/item2.jpg);
+	position: absolute;
+}
+.item3{
+	width: 100%;
+	height: 100%;
+    background-size: 100% 100%;
+	background-position: center;
+	background-image:url(img/item3.jpg);
+	position: absolute;
+}
+.item4{
+	width: 100%;
+	height: 100%;
+    background-size: 100% 100%;
+	background-position: center;
+	background-image:url(img/item4.jpg);
+	position: absolute;
+}
+.item5{
+	width: 100%;
+	height: 100%;
+    background-size: 100% 100%;
+	background-position: center;
+	background-image:url(img/item5.jpg);
+	position: absolute;
+}
+.item6{
+	width: 100%;
+	height: 100%;
+    background-size: 100% 100%;
+	background-position: center;
+	background-image:url(img/item6.jpg);
+	position: absolute;
+}
+.comentariy{
+	width: 100%;
+	height: 100%;
+	background-color: #3b4552;
+	position: absolute;
+	transform: rotateY(180deg);
+}
+
+.comentariy h4 {
+    font-family: 'Dosis';
+    font-size: 20px;
+    color: #fff;
+    margin: 0px 0px;
+    text-align: left;
+
+ }
+.comentariy p{
+	text-align: left;
+	font-size: 18px;
+    color: #fff;
+}
+
+.btn3{
+	width: 57%;
+	height: 50px;
+	border: 3px solid white;
+	text-align: center;
+	line-height: 1;
+	position: absolute;
+	left: 40%;
+	top:225px;
+
+}
+/*.resim:hover{
+	animation-name: rotate;
+	animation-duration: 1s;
+	animation-iteration-count: 1;
+}
+*/
+
+
+
+.conteiner4{
+	width: 89%;
+	height: 1050px;
+	background-color:  #3baeda;
+	position: relative;
+	text-align: center;
+	left: 5%;
+	right: 7%;
+	top: 300px;
+	border-bottom-right-radius: 30px;
+}
+.map{
+	width: 96%;
+	height: 400px;
+	background-color: yellow;
+	position: relative;
+	left: 2%;
+	top: 100px;
+}
+.contacts{
+	width: calc(100% - 50px);
+	height: 375px;
+	display: inline-block;
+	position: relative;
+	left: 0px;
+	top: 190px;
+}
+.contacts_item{
+	width: calc(100% - 400px);
+	height: 300px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.items{
+	height: 30px;
+	display: inline-block;
+}
+
+.contacts_about{
+	width: 25%;
+	height: 300px;
+	position: relative;
+	left: 59%;
+	top: -55px;
+}
+.name{
+	height: 40px;
+	position: absolute;
+	left:0px;
+	top: -20px;
+}
+.enail{
+	height: 40px;
+	position: absolute;
+	left: 32%;
+	top: -20px;
+}
+.subject{
+	height: 40px;
+	position: absolute;
+	left: 65%;
+	top: -20px;
+}
+textarea{
+	margin-top: 20px;
+	height: 100%;
+	width: 93%;
+	position: absolute;
+	left: 0px;
+	top: 30px;
+}
+input{
+	width: 28.5%;
+	height: 50px;
+	position: absolute;
+	left: 0px;
+}
+.c_btn1{
+	position: absolute;
+	left: 10px;
+	top: calc(100%);
+}
+.about_t{
+	width: 115%;
+	height: 70px;
+	text-align: left;
+}
+.text1{
+	color: white;
+	position: absolute;
+	left: 23%;
+	top: 30px;
+}
+.text2{
+	color: white;
+	position: absolute;
+	left: 23%;
+	top: 110px;
+}
+.contact_baslik{
+	color: white;
+	font-size: 25px;
+}
+
+#company_link{
+	color: blue;
+}
+.fooder{
+	width: 89%;
+	height: 50px;
+	margin-bottom: 40px;
+	border:1px solid white;
+	border-top-left-radius: 30px; 
+	background-color: white;
+	position: relative;
+	left: 5%;
+	top: 330px;
+}
+ul{
+	list-style: none;
+	display:flex;
+
+}
+a li{
+	color: blue;
+}
+.reset{
+	width: 40px;
+	height: 40px;
+	background-color: #e9573e;
+	position: absolute;
+	left: 49%;
+	top: -20px;
+}
+.btn_hover:hover{
+	filter: opacity(40%);
+	border-radius: 10px;
+	border:0px solid; 
+ 	background-color: #fcc00f;
+ 	filter: saturate(100%);
+   box-shadow: 4px 4px 10px black;
+}
+.facebook_icon{
+	width: 2.5%;
+	height: 60%;
+	background-image: url(img/facebook.png);
+	background-size: 100% 100%;
+	position: absolute;
+	left: 85%;
+	top: 10px;
+
+}
+.twitter_icon{
+	width: 2.5%;
+	height: 60%;
+	background-image: url(img/twitter.png);
+	background-size:100% 100%;
+	position: absolute;
+	left: 88%;
+	top: 10px;
+
+}
+.instagram_icon{
+	width: 2.5%;
+	height: 60%;
+	background-image: url(img/instagram.png);
+	background-size: 100% 100%;
+	position: absolute;
+	left: 91%;
+	top: 10px;
+}
+.wifi_icon{
+	width: 2%;
+	height: 55%;
+	background-image: url(img/wifi.png);
+	background-size: 100% 100%;
+	position: absolute;
+	left: 94%;
+	top: 10px;
+}
